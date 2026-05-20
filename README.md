@@ -1,8 +1,8 @@
 # Stoperica – Flowcode
 
-Ovaj projekat predstavlja simulaciju digitalne stoperice urađene u programu Flowcode. Cilj projekta je prikaz rada stoperice pomoću logike brojanja vremena i upravljanja signalima.
+Ovaj projekat predstavlja simulaciju digitalne štoperice urađene u programu Flowcode. Cilj projekta je prikaz rada štoperice pomoću logike brojanja vremena i upravljanja signalima.
 
-Stoperica funkcioniše kroz više stanja:
+štoperica funkcioniše kroz više stanja:
 
 - Pokretanje brojanja vremena
 - Zaustavljanje stoperice
@@ -20,14 +20,14 @@ Projekat je napravljen kao vježba za:
 
 - Flowcode
 - Mikrokontroler (zavisno od konfiguracije projekta)
-- LED ili 7-segmentni displej
-- Tasteri za upravljanje stopericom
+- LCD displej
+- Tasteri za upravljanje stopericom (start/stop/restart/prolaz) 
 
 ## Pokretanje projekta
 
 1. Otvoriti projekat u programu Flowcode.
 2. Pokrenuti simulaciju.
-3. Koristiti tastere za start, stop i reset funkcije.
+3. Koristiti tastere za upravljanje programom.
 
 ## Autor
 
