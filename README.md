@@ -29,7 +29,7 @@ Projekat je napravljen kao vježba za:
 2. Pokrenuti simulaciju.
 3. Koristiti tastere za upravljanje programom.
 
-##Primjer
+
 <img width="634" height="112" alt="stoperica" src="https://github.com/user-attachments/assets/5c4e3d8d-ad80-4d92-bb86-157901b57237" />
 
 ## Autor
