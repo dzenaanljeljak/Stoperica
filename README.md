@@ -17,8 +17,11 @@ simulaciju mikrokontrolera
 sekvencijalne sisteme
 
 
-#Tehnologije
+## Tehnologije
 
-Flowcode
-Mikrokontroler (zavisno od konfiguracije projekta)
-LED indikatori za simulaciju semafora
+- Flowcode
+- Mikrokontroler (zavisno od konfiguracije projekta)
+- LED indikatori za simulaciju semafora
+
+## Autor
+Dženan Ljeljak
